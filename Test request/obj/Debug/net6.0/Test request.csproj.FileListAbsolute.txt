@@ -1,0 +1,17 @@
+C:\Users\it works\Desktop\Test request\Test request\bin\Debug\net6.0\Test request.exe
+C:\Users\it works\Desktop\Test request\Test request\bin\Debug\net6.0\Test request.deps.json
+C:\Users\it works\Desktop\Test request\Test request\bin\Debug\net6.0\Test request.runtimeconfig.json
+C:\Users\it works\Desktop\Test request\Test request\bin\Debug\net6.0\Test request.dll
+C:\Users\it works\Desktop\Test request\Test request\bin\Debug\net6.0\Test request.pdb
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\Test request.csproj.AssemblyReference.cache
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\Test request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\Test request.AssemblyInfoInputs.cache
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\Test request.AssemblyInfo.cs
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\Test request.csproj.CoreCompileInputs.cache
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\Test request.dll
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\refint\Test request.dll
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\Test request.pdb
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\Test request.genruntimeconfig.cache
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\ref\Test request.dll
+C:\Users\it works\Desktop\Test request\Test request\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\it works\Desktop\Test request\Test request\obj\Debug\net6.0\Test request.csproj.CopyComplete
